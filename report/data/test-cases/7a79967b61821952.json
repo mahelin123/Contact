@@ -1,0 +1,55 @@
+{
+  "uid" : "7a79967b61821952",
+  "name" : "test_delete_contacts",
+  "fullName" : "Contact.TestCantast#test_delete_contacts",
+  "historyId" : "a3a4704853e1ec90019c2282009f8a87",
+  "time" : {
+    "start" : 1595749785584,
+    "stop" : 1595749809937,
+    "duration" : 24353
+  },
+  "description" : "\n        1、先点击要删除的人名，进入到个人信息页面\n        2、点击右上角-＞点击编辑成员，进入编辑成员页面\n        3、点击删除按钮\n\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    1、先点击要删除的人名，进入到个人信息页面\n    2、点击右上角-＞点击编辑成员，进入编辑成员页面\n    3、点击删除按钮\n\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Contact"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCantast"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-IL7LOKG0"
+  }, {
+    "name" : "thread",
+    "value" : "11976-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "Contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7a79967b61821952.json",
+  "parameterValues" : [ ]
+}

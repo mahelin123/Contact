@@ -1,0 +1,21 @@
+[ {
+  "uid" : "7a79967b61821952",
+  "name" : "test_delete_contacts",
+  "time" : {
+    "start" : 1595749785584,
+    "stop" : 1595749809937,
+    "duration" : 24353
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "61eacec6593e6f72",
+  "name" : "test_add_contacts",
+  "time" : {
+    "start" : 1595749735904,
+    "stop" : 1595749758332,
+    "duration" : 22428
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

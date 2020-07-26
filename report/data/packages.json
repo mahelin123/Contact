@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Contact",
+    "children" : [ {
+      "name" : "test_add_contacts",
+      "uid" : "61eacec6593e6f72",
+      "parentUid" : "2c1b71a1fed1f53eb14b36527feaf0a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595749735904,
+        "stop" : 1595749758332,
+        "duration" : 22428
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_delete_contacts",
+      "uid" : "7a79967b61821952",
+      "parentUid" : "2c1b71a1fed1f53eb14b36527feaf0a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1595749785584,
+        "stop" : 1595749809937,
+        "duration" : 24353
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "2c1b71a1fed1f53eb14b36527feaf0a3"
+  } ]
+}
